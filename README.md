@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Camila-PL
 - 👀 I’m interested in Travelling 
 - 🌱 I’m currently studying in Centennial College
-- ⚡ Fun fact: I'm 1.49
+- ⚡ Fun fact: I'm 1.49cm
 
 <!---
 Camila-PL/Camila-PL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
